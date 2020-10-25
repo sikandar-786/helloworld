@@ -1,0 +1,3 @@
+program hello
+print *, "HELLO WORLD!"
+end program hello
